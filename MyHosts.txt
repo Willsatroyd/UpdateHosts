@@ -1,0 +1,14 @@
+# Default localhost entries
+# ------------------------
+127.0.0.1	localhost
+::1			localhost
+
+# My Blocks
+# ------------------------
+127.0.0.1	pricegrabber.com
+127.0.0.1	pricegrabber.co.uk
+127.0.0.1	gmedos.com
+127.0.0.1	gmedia.co.uk
+
+# Downloaded host blocking
+# ------------------------
