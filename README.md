@@ -1,6 +1,6 @@
 # Update-Hosts.ps1
 
-Updates the local hosts file to include the domains in both the local file $UserHostsFile and downloaded entries from $UriList in the script and points all those domains to an IP specified by $IpToUse (127.0.0.1 by default).
+Updates the Windows hosts file to include the domains in both the local file $UserHostsFile and downloaded entries from $UriList in the script and points all those domains to an IP specified by $IpToUse (127.0.0.1 by default).
 0.0.0.0 is the other option, which can be used on machines where a local webserver would respond.
 
 The user running the script must have write access to the hosts file. Typically this means a local administrator running elevated.
