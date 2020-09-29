@@ -9,7 +9,7 @@ The user running the script must have write access to the hosts file. Typically 
 
 I've included several hosts file sources here, discovered just by searching. I do not make any claims as to the reliability or utility of any of these lists. I suggest you carry out your own verification.
 
-Beware of adding too many entries to this list as that may result in too many host entries in the final file which slows down lookups, possibly terminally. Experiment by gradually increasing the number of sources, to ensure your machine can cope with the resulting hosts file. It is possible to render a machine unresponsive by including too many.
+Beware of adding too many entries to this list as that may result in too many host entries in the final file which slows down lookups, possibly terminally. Experiment by gradually increasing the number of sources, to ensure your machine can cope with the resulting hosts file. It is possible to render a machine unresponsive by including too many (bitter experience).
 
 <http://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts>
 <http://someonewhocares.org/hosts>
