@@ -1,14 +1,41 @@
-# Default localhost entries
+# HomeNet
 # ------------------------
 127.0.0.1	localhost
 ::1			localhost
+10.0.0.1	router			router.conanw.lan			router.conanw.privatedns.org
+10.0.0.2	nas				nas.conanw.lan				nas.conanw.privatedns.org
+10.0.0.3	switch			switch.conanw.lan			switch.conanw.privatedns.org
+10.0.0.4	ups				ups.conanw.lan				ups.conanw.privatedns.org
+10.0.0.5	marvin			marvin.conanw.lan			marvin.conanw.privatedns.org
+10.0.0.6	fanboipc-eth	fanboipc-eth.conanw.lan		fanboipc-eth.conanw.privatedns.org
+10.0.0.7	cxn-wifi		cxn-wifi.conanw.lan			cxn-wifi.conanw.privatedns.org
+10.0.0.8	nuc-eth			nuc-eth.conanw.lan			nuc-eth.conanw.privatedns.org
+10.0.0.9	dvr-wifi		dvr-wifi.conanw.lan			dvr-wifi.conanw.privatedns.org
+10.0.0.10	LaurasPhone		LaurasPhone.conanw.lan		LaurasPhone.conanw.privatedns.org
+10.0.0.11	Conesphone		Conesphone.conanw.lan		Conesphone.conanw.privatedns.org
+10.0.0.12	pure			pure.conanw.lan				pure.conanw.privatedns.org
+10.0.0.13	kindle			kindle.conanw.lan			kindle.conanw.privatedns.org
+10.0.0.14	fanboipc-wifi	fanboipc-wifi.conanw.lan	fanboipc-wifi.conanw.privatedns.org
+10.0.0.15	printer			printer.conanw.lan			printer.conanw.privatedns.org
+10.0.0.16	X-T3			X-T3.conanw.lan				X-T3.conanw.privatedns.org
+10.0.0.17	dvr-eth			dvr-eth.conanw.lan			dvr-eth.conanw.privatedns.org
+10.0.0.18	nuc-wifi		nuc-wifi.conanw.lan			nuc-wifi.conanw.privatedns.org
+10.0.0.19	nintendo		nintendo.conanw.lan			nintendo.conanw.privatedns.org
+10.0.0.20	ipad			ipad.conanw.lan				ipad.conanw.privatedns.org
+10.0.0.21	cxn-eth			cxn-eth.conanw.lan			cxn-eth.conanw.privatedns.org
+10.0.0.22	jl1273			jl1273.conanw.lan			jl1273.conanw.privatedns.org
+10.0.0.23	jl6729			jl6729.conanw.lan			jl6729.conanw.privatedns.org
+10.0.0.25	marvin-wifi		marvin-wifi.conanw.lan		marvin-wifi.conanw.privatedns.org
+
+# Work
+# ------------------------
 
 # My Blocks
 # ------------------------
-127.0.0.1	pricegrabber.com
-127.0.0.1	pricegrabber.co.uk
-127.0.0.1	gmedos.com
-127.0.0.1	gmedia.co.uk
+0.0.0.0	pricegrabber.com
+0.0.0.0	pricegrabber.co.uk
+0.0.0.0	gmedos.com
+0.0.0.0	gmedia.co.uk
 
-# Downloaded host blocking
+# Imported host blocking
 # ------------------------
